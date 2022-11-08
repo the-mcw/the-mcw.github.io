@@ -5,7 +5,7 @@ date: "2022-11-08"
 output: html_document
 ---
 
-# The Simple Yet Awesome Website
-## Note: The top 6 lines are the YAML tags
-### We will Knit this RMD to and html file next
-Then push index.html to the github.io repo.
+# About Me
+My name is Christopher Williams, I graduated from Texas A&M University with a bachelor's degree in statistics and am currently working toward my master's degree in data science at SMU. I am passionate about sports and competition, with a focus on basketball and baseball.  
+  
+Be sure to check out the other tabs at the top to see some of my projects.
