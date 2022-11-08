@@ -1,0 +1,11 @@
+---
+title: "Simple Website"
+author: "Christopher Williams"
+date: "2022-11-08"
+output: html_document
+---
+
+# The Simple Yet Awesome Website
+## Note: The top 6 lines are the YAML tags
+### We will Knit this RMD to and html file next
+Then push index.html to the github.io repo.
