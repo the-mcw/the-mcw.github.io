@@ -8,4 +8,4 @@ output: html_document
 # About Me
 My name is Christopher Williams, I graduated from Texas A&M University with a bachelor's degree in statistics and am currently working toward my master's degree in data science at SMU. I am passionate about sports and competition, with a focus on basketball and baseball.  
   
-Be sure to check out the other tabs at the top to see some of my projects.  
+Be sure to check out the other tabs at the top to see some of my projects.   
